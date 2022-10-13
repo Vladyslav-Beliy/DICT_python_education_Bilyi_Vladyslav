@@ -19,11 +19,11 @@ while i != number+1:
     i = i+1
 
 print("Completed, have a nice day")
-print("Why u stupid?")
-print("1.To repeat a statement multiple times.")
-print("2.To decompose a program into several small subroutines.")
-print("3.To determine the execution time of a program.")
-print("4.To interrupt the execution of a program.")
+print("Why Programming?")
+print("1.This is my dream.")
+print("2.I love programming.")
+print("3.Want to learn something new!")
+print("4.I want to make games!")
 number = int(input("> "))
 while number != 3:
     print("Try again")
